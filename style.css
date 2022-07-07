@@ -1,0 +1,15 @@
+body{
+    background-color: #c6c1b2;
+    font-size: 18px;
+    font-family: 'Orbitron', sans-serif;
+    width: 200px;
+    height: auto;
+    justify-content: center;
+    display: flex; 
+}
+p{
+    display: inner-flex;
+    color: rgb(9, 2, 33);
+    padding: 10px;
+    text-justify: auto;
+}
